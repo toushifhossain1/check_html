@@ -1,0 +1,109 @@
+.body{
+    display: flex;
+    align-items: center;
+    background-color: rgb(174, 252, 255);
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-right: 50px;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 20px;
+
+}
+.background{
+    
+    margin-left: 150px;
+}
+
+.upper_part{
+    
+    background-color: burlywood;
+    box-shadow: 5px 5px orangered, 10px 10px green, 15px 15px blue;
+}
+h1{
+    color: rgb(190, 47, 47);
+    
+}
+h3{
+    margin-left: 20px;
+    text-emphasis-style: bold;
+    color: rgb(49, 34, 34);
+    
+}
+
+.about{
+    
+    font-size: x-large;
+
+    
+}
+.wid{
+    font-size: x-large;
+    color: black;
+}
+.img1{ 
+   margin-top: -210px;
+    margin-left: 550px;
+}
+
+.midle_part{
+    
+    margin-top: 150px;
+    
+}
+
+.about{
+    margin-top: -310px;
+    margin-left: 550px;
+}
+
+.image2{
+    background-color: rgb(200, 162, 200);
+    margin-left: 100px;
+    box-shadow: 5px 5px orange, 10px 10px green, 15px 15px blue;
+}
+.about_me_description{
+    margin-left: 550px;
+    
+}
+
+.lower_part{
+    
+    margin-top: 350px;
+    margin-bottom: 15px;
+    background-color: rgb(13,152,186);
+    box-shadow: 5px 5px green, 10px 10px blue, 15px 15px black;
+    
+}
+
+.box{
+    display: flex;
+    margin-left: 50px;
+    
+    
+}
+.first_box{
+    
+    width: 300px;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 20px;
+    background-color:  rgb(255, 253, 208);
+  
+}
+.second_box{
+    width: 300px;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 20px;
+    background-color:  rgb(255, 253, 208);
+  
+}
+.third_box{
+    width: 300px;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 20px;
+    background-color:  rgb(255, 253, 208);
+  
+}
